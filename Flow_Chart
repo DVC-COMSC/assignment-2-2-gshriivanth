@@ -1,0 +1,27 @@
++------------------------------------+
+|            Start                   |
++------------------------------------+
+|                                    |
+|   Ask user to input the             |
+|   temperature in Celsius           |
+|   Store the input in the            |
+|   variable celsius                  |
+|                                    |
++------------------------------------+
+|                                    |
+|   Calculate the temperature        |
+|   in Fahrenheit using the           |
+|   equation provided                 |
+|   Store the result in the           |
+|   variable fahrenheit               |
+|                                    |
++------------------------------------+
+|                                    |
+|   Display the temperature in        |
+|   Fahrenheit using a print          |
+|   statement                         |
+|                                    |
++------------------------------------+
+|                                    |
+|            End                     |
++------------------------------------+
